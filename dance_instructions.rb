@@ -39,11 +39,11 @@ def bust_a_move
 end
   
   def right 
-    puts "step right"
+    puts "steping right"
   end 
 
 def left 
-  puts "step left"
+  puts "steping left"
 end
   
  bob_the_reins
@@ -55,7 +55,7 @@ end
  bob_the_reins
  bob_the_reins
  
- puts "WHILE ALSO DOING"
+ puts "WHILE ALSO"
  
  def stepping 
    right 
@@ -69,5 +69,7 @@ end
 end 
 
 stepping 
+
+puts "THEN"
 
 # Code your methods below
