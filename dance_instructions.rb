@@ -38,7 +38,36 @@ def bust_a_move
   puts "Be cool and be snazzy."
 end
   
+  def right 
+    puts "step right"
+  end 
+
+def left 
+  puts "step left"
+end
   
-  
-  
+ bob_the_reins
+ bob_the_reins
+ bob_the_reins
+ bob_the_reins
+ bob_the_reins
+ bob_the_reins
+ bob_the_reins
+ bob_the_reins
+ 
+ puts "WHILE ALSO DOING"
+ 
+ def stepping 
+   right 
+   left 
+   right 
+   right 
+   left 
+   right 
+   left 
+   left 
+end 
+
+stepping 
+
 # Code your methods below
