@@ -72,4 +72,31 @@ stepping
 
 puts "THEN"
 
+lasso
+lasso
+lasso
+lasso
+lasso
+lasso 
+lasso
+lasso
+
+puts "WHILE ALSO"
+
+stepping 
+
+puts "AFTER DO"
+
+starting_stance
+bust_a_move
+base_footwork
+bob_the_reins
+
+puts "WHILE"
+
+skip_step
+
+
+
+
 # Code your methods below
